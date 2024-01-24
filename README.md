@@ -26,12 +26,12 @@ pip install -r requirements.txt
 3.Copy the 'env.example' file to '.env' and fill out the environment
 
 4.Run the 'main.py' script
-Mac users:
 ````
+Mac users:
 python3 main.py
 
-
-Windows users:
 ````
+````
+Windows users:
 python main.py
 ````
