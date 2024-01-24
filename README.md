@@ -2,14 +2,15 @@
 by Jeeva Varadarajulu
 
 ## Introduction
-This code contains the steps to build an ETL pipline that carries
+This code contains the steps to build an ETL pipline that carries out the following tasks:
+
 -Extracts 400k transaction data from Redshift
 -Identifies and removes duplicates
 -loads the transformed data to a s3 bucket
 
 ## Requirements
 The minimum requirements:
--Python 3+
+ -Python 3+
 
 ## Instructions on how to execute the code
 
